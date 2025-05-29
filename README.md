@@ -4,10 +4,11 @@
   💻 Unity Developer | 🔥 C# Enthusiast | 🎮 GameDev Fan  
 </p>
 
-## 🛠️ Technologies & Tools
 
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=unity,cs,rider,figma)"/>
+
+## 🛠️ Technologies & Tools
+<p>
+    <img  src="https://skillicons.dev/icons?i=unity,cs,rider,ps,figma,vue,)"/>
 </p>
 
 ---
