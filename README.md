@@ -1,10 +1,9 @@
-<h1 align="center">Hi there 👋 I'm a Unity Developer</h1>
-
-<p align="center">
-  💻 Unity Developer | 🔥 C# Enthusiast | 🎮 GameDev Fan  
-</p>
+## Hi there 👋 I'm a Unity Developer
 
 
+###  💻 Unity Developer | 🔥 C# Enthusiast | 🎮 GameDev Fan  
+
+---
 
 ## 🛠️ Technologies & Tools
 <p>
