@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm a Unity Developer</h1>
+
+<p align="center">
+  💻 Unity Developer | 🔥 C# Enthusiast | 🎮 GameDev Fan  
+</p>
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,figma)](https://skillicons.dev)
+</p>
+
+---
 
 <!--
 **AlexPyriel/AlexPyriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +25,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on mobile idle games with deep tutorial systems  
+- 🌱 Learning advanced architecture, ECS, DOTween, and UniTask  
+- 🧠 Passionate about game design, UX, and performance optimization  
+- 💬 Ask me about: Unity, Addressables, async/await  
+- 📫 Reach me at: [your-email@example.com] or [Telegram](https://t.me/your_tg_username)
+
+---
 -->
