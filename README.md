@@ -7,7 +7,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,figma)](https://skillicons.dev)
+   <img src="https://skillicons.dev/icons?i=unity,cs,rider,figma)"/>
 </p>
 
 ---
