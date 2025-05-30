@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies & Tools
 <p>
-    <img  src="https://skillicons.dev/icons?i=unity,cs,rider,ps,figma,vue,)"/>
+    <img  src="https://skillicons.dev/icons?i=unity,cs,git,rider,vscode,js,nodejs,mongodb,angular,vue,vuetify,ps,figma,,)"/>
 </p>
 
 ---
